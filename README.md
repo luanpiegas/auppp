@@ -1,2 +1,3 @@
-# auppp
-WooCommerce plugin that auto update the price value at Product Page when the quantity value changes.
+# Instalation:
+
+Download this repository as a zip file and upload it on your WordPress website.
